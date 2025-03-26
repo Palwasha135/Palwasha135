@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Blog Website](https://weatherapp-frontend-seven-woad.vercel.app/)
 
-- 🌱 I’m currently learning **React js, Next js, Node js, Tailwind CSS**
+- 🌱 I’m currently learning **JavaScript,React js, Next js, Node js, Tailwind CSS**
 
-- 💬 Ask me about **React js, Tailwind CSS**
+- 💬 Ask me about **HTML, CSS, Tailwind CSS**
 
 - 📫 How to reach me **palwashakk456@gmail.com**
 
